@@ -28,9 +28,9 @@ namespace Banco.Data
             }
         }
 
-        public CartaoDao Buscar(Cartao obj)
+        public Cartao Buscar(Cartao obj)
         {
-            Cartao cartao = null;
+            Cartao novoCartao = new Cartao();
             try
             {
                 Database db = new DatabaseProviderFactory().Create("Database");
@@ -42,16 +42,13 @@ namespace Banco.Data
                     {
                         if (dr.Read())
                         {
-                            cartao = new Cartao();
-                            cartao.idCartao = Convert.ToString(dr["idCartao"]);
-                            cartao.validadeCartao = Convert.ToString(dr["validadeCartao"]);
-                            cartao.idCPF = Convert.ToString(dr["idCPF"]);
-
-                    
+                            novoCartao.idCartao = Convert.ToString(dr["idCartao"]);
+                            novoCartao.validadeCartao = Convert.ToString(dr["validadeCartao"]);
+                            novoCartao.idCPF = Convert.ToString(dr["idCPF"]);                    
                         }
                     }
                 }
-                return cartao;
+                return novoCartao;
             }
             catch (Exception)
             {
