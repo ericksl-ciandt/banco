@@ -47,6 +47,7 @@
   <ItemGroup>
     <Compile Include="CartaoDao.cs" />
     <Compile Include="ClienteDao.cs" />
+    <Compile Include="ContaDao.cs" />
     <Compile Include="Interfaces\IData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
