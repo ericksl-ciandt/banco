@@ -31,26 +31,13 @@ namespace Banco.Data
 
         }
 
-
-
-
-        public void Atualizar(Clientes obj)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Remover(Clientes obj)
-        {
-            throw new NotImplementedException();
-        }
-
         public Clientes Buscar(Clientes obj)
         {
             Clientes Clientes = null;
             try
             {
                 Database db = new DatabaseProviderFactory().Create("Database");
-                string sql = @"SELECT idCPF,Nome, Sobrenome, Rg, Idade FROM TableClientes WHERE cpf = @idCPF";
+                string sql = "SELECT idCPF,Nome, Sobrenome, Rg, Idade FROM TableCliente WHERE idCPF = @idCPF";
                 using (DbCommand cmd = db.GetSqlStringCommand(sql))
                 {
                     db.AddInParameter(cmd, "idCPF", DbType.String, obj.cpf);
@@ -75,5 +62,7 @@ namespace Banco.Data
                 throw;
             }
         }
+
+
     }
 }

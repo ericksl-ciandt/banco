@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Banco.Model
 {
-    class Cartao
+    public class Cartao
     {
         public string idCartao { get; set; }
-        public int validadeCartao { get; set; }
+        public string validadeCartao { get; set; }
         public string idCPF { get; set; }
     }
 }

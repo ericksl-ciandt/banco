@@ -2,4 +2,3 @@ C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Banco.Busine
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Banco.Business.pdb
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\obj\Debug\Banco.Business.dll
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\obj\Debug\Banco.Business.pdb
-C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\obj\Debug\Banco.Business.csprojResolveAssemblyReference.cache

@@ -9,7 +9,7 @@ namespace TesteBanco
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestInsertCliente()
         {
             Clientes obj = new Clientes();
             obj.cpf = "123456789";
@@ -21,6 +21,15 @@ namespace TesteBanco
             dao.Inserir(obj);
 
             Assert.IsTrue(true);
+        }
+        [TestMethod]
+        public void TesteConsulta()
+        {
+            Clientes obj = new Clientes();
+            obj.cpf = "123456789";
+            ClienteDao dao = new ClienteDao();
+            Clientes ret =  dao.Buscar(obj );
+            Assert.IsTrue(ret.nome == "Erick");
         }
     }
 }
