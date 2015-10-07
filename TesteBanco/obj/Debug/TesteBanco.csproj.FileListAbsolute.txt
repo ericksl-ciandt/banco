@@ -1,0 +1,14 @@
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\TesteBanco.dll.config
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\TesteBanco.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\TesteBanco.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\Banco.Data.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\Banco.Model.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\Banco.Data.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\Banco.Model.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\obj\Debug\TesteBanco.csprojResolveAssemblyReference.cache
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\obj\Debug\TesteBanco.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\TesteBanco\obj\Debug\TesteBanco.pdb
