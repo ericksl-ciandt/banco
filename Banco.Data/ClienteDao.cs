@@ -64,5 +64,16 @@ namespace Banco.Data
         }
 
 
+
+
+        public void Atualizar(Clientes obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Remover(Clientes obj)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

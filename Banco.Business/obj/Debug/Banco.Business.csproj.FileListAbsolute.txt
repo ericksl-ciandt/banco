@@ -2,3 +2,12 @@ C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Banco.Busine
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Banco.Business.pdb
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\obj\Debug\Banco.Business.dll
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\obj\Debug\Banco.Business.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\obj\Debug\Banco.Business.csprojResolveAssemblyReference.cache
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Banco.Data.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Banco.Model.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Banco.Data.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Banco.Model.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Business\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml

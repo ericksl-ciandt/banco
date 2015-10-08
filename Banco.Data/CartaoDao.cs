@@ -55,5 +55,16 @@ namespace Banco.Data
                 throw;
             }
         }
+
+
+        public void Atualizar(Cartao obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Remover(Cartao obj)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

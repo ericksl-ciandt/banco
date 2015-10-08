@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MenssagemSucesso.aspx.cs" Inherits="Banco.Web.MenssagemSucesso" %>
+﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MensagemSucesso.aspx.cs" Inherits="Banco.Web.MensagemSucesso" %>
 
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
@@ -9,5 +9,4 @@
 
     Cadastro efetuado com sucesso.
 
-    </aside>
 </asp:Content>

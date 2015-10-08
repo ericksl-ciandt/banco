@@ -29,8 +29,8 @@ namespace Banco.Web
             obj.idade = txtIdade.Text.Trim();
             ClienteBO boClient = new ClienteBO();
             boClient.Inserir(obj);
-
-            Response.Redirect("~/MenssagemSucesso");            
+            
+            Response.Redirect("~/MensagemSucesso.aspx", true);            
         }
     }
 }

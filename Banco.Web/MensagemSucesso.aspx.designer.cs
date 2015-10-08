@@ -10,6 +10,6 @@
 namespace Banco.Web {
     
     
-    public partial class MenssagemSucesso {
+    public partial class MensagemSucesso {
     }
 }

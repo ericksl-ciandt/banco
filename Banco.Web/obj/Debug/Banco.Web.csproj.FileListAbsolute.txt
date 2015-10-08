@@ -32,3 +32,13 @@ C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Microsoft.AspNet.Friend
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\obj\Debug\Banco.Web.csprojResolveAssemblyReference.cache
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\obj\Debug\Banco.Web.dll
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\obj\Debug\Banco.Web.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Banco.Business.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Banco.Data.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Banco.Model.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Banco.Business.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Banco.Data.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Banco.Model.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
