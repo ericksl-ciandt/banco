@@ -2,8 +2,7 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1><%: Title %>.</h1>
-        <h2>Cadastro de Cliente.</h2>
+        <h1><%: Title %></h1></h2>
     </hgroup>
 
    <br> <asp:Label ID="Label1" runat="server" Text="Nome"></asp:Label></br>

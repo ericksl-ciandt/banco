@@ -16,5 +16,10 @@ namespace Banco.Business
             ClienteDao dao = new ClienteDao();
             dao.Inserir(obj);
         }
+        public Clientes Buscar(Clientes obj)
+        {
+            ClienteDao dao = new ClienteDao();
+            return dao.Buscar(obj);
+        }
     }
 }
