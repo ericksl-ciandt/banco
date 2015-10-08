@@ -2,3 +2,4 @@ C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Model\bin\Debug\Banco.Model.dll
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Model\bin\Debug\Banco.Model.pdb
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Model\obj\Debug\Banco.Model.dll
 C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Model\obj\Debug\Banco.Model.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Banco\Banco.Model\obj\Debug\Banco.Model.csprojResolveAssemblyReference.cache

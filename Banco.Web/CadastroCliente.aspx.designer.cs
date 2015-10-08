@@ -10,7 +10,7 @@
 namespace Banco.Web {
     
     
-    public partial class About {
+    public partial class CadastroCliente {
         
         /// <summary>
         /// Label1 control.

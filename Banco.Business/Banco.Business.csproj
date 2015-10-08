@@ -40,7 +40,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="businessExceptions.cs" />
+    <Compile Include="ClienteBO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Banco.Data\Banco.Data.csproj">
+      <Project>{9c01394f-e142-4c65-84be-601d66c10ba8}</Project>
+      <Name>Banco.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Banco.Model\Banco.Model.csproj">
+      <Project>{1787401e-3cd9-4321-9457-928f77edabc5}</Project>
+      <Name>Banco.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
